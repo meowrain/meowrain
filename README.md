@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Metrics](https://metrics.lecoq.io/?template=classic&introduction=1&base.indepth=false&base.hireable=false&introduction.title=true&config.timezone=Asia%2FShanghai)
+![Metrics](https://metrics.lecoq.io/meowrain?template=classic&base.indepth=false&base.hireable=false&config.timezone=Asia%2FShanghai)
 <!--
 **meowrain/meowrain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
