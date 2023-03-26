@@ -1,4 +1,4 @@
-#### Hi there 👋,I'm MeowRain.
+#### Hi there 👋,I'm MeowRain.From SXAU.
 ## About
   大家好，我是MeowRain，中文可读作喵雨，至于为什么起这个名字，其实是因为英文里的rain和我的名字有谐音字，哈哈😄，再一个就是我比较喜欢猫咪，也养着一只小猫咪（叫老虎(目前已经怀上小猫咪了)，目前是我姐姐代养，自己太忙了顾不上照顾猫咪）所以就叫MeowRain啦。
  
