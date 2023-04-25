@@ -16,7 +16,9 @@
   梦想着成为一个和棒的程序猿(๑•̀ㅂ•́)و✧，在为自己的目标努力着！！
 ## Learning Front-end
 目前正在学习web前端技术
+
 ![Web Developer](https://skillicons.dev/icons?i=html,css,typescript,react,nextjs,vue,tailwindcss,vite)
+
 ## IDE&Editor
 [![CLion](https://img.shields.io/badge/IDE-JetBrains%20CLion-22D890?style=flat-square&logo=clion)](https://www.jetbrains.com/clion/)
 [![Pyc](https://img.shields.io/badge/IDE-JetBrains%20Pycharm-FCF84A?style=flat-square&logo=Pycharm)](https://www.jetbrains.com/pycharm/)
