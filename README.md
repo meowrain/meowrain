@@ -33,7 +33,8 @@
 [Meowrain's Blog](https://meowrain.cn)
 
 ## Stats
-![MeowRain's GitHub stats](https://github-readme-stats.vercel.app/api?username=meowrain&show_icons=true&theme=radical)
+![MeowRain's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=meowrain&show_icons=true&theme=radical)
 
 ## Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meowrain&layout=compact)](https://github.com/Christmas/github-readme-stats)
+![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=meowrain&layout=compact)
+
