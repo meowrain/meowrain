@@ -1,7 +1,7 @@
 #### Hi there 👋,I'm MeowRain.From SXAU.
 ## About
-  大家好，我是MeowRain，中文可读作喵雨，至于为什么起这个名字，其实是因为英文里的rain和我的名字有谐音字，哈哈😄，再一个就是我比较喜欢猫咪，也养着一只小猫咪（叫老虎(目前已经怀上小猫咪了)，目前是我姐姐代养，自己太忙了顾不上照顾猫咪）所以就叫MeowRain啦。
- 
+  大家好，我是MeowRain
+  
 　❤️(●'◡'●)今年20岁了，读大一。
  
 　热爱开源！
@@ -24,7 +24,9 @@
 [![Pyc](https://img.shields.io/badge/IDE-JetBrains%20Pycharm-FCF84A?style=flat-square&logo=Pycharm)](https://www.jetbrains.com/pycharm/)
 [![IDEA](https://img.shields.io/badge/IDE-JetBrains%20IDEA-22D890?style=flat-square&logo=IDEA)](https://www.jetbrains.com/idea/)
  
-## System-using
+## 💻System-using
+现在主要使用Fedora
+[![Fedora](https://img.shields.io/badge/Fedora-294172?style=flat-square&logo=fedora&logoColor=white)](https://getfedora.org/)
 [![win11](https://img.shields.io/badge/Windows%2011-0067B8?style=flat-square&logo=microsoft&logoColor=white)](https://www.microsoft.com/en-us/windows)
 ![manjaro](https://img.shields.io/badge/Manjaro-0D7F1E?style=flat-square&logo=manjaro&logoColor=white)
  
