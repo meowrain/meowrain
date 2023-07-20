@@ -1,3 +1,7 @@
+
+
+<img align='right' src='https://meowrain.cn/upload/2023/06/IMG_20230622_212948_886.jpg' width='410px' style="border-radius: 50%;">
+
 #### Hi there 👋,I'm MeowRain.From SXAU.
 ## About
   大家好，我是MeowRain
