@@ -1,6 +1,4 @@
-
-
-<img align='right' src='https://meowrain.cn/upload/2023/06/IMG_20230622_212948_886.jpg' width='410px' style="border-radius: 50%;">
+<img src="https://avatars.githubusercontent.com/u/107172084?v=4" alt="" align="right" height="200" width="200" data-view-component="true" class="avatar circle">
 
 #### Hi there 👋,I'm MeowRain.From SXAU.
 ## About
