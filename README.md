@@ -40,5 +40,5 @@
 ![MeowRain's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=meowrain&show_icons=true&theme=radical)
 
 ## Languages
-![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=meowrain&layout=compact)
+![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=meowrain&layout=compact&theme=material-palenight)
 
