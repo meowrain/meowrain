@@ -16,10 +16,10 @@
   ![](https://img.shields.io/badge/-python-yellow?logo=python)
   
   梦想着成为一个和棒的程序猿(๑•̀ㅂ•́)و✧，在为自己的目标努力着！！
-## Learning Front-end
-目前正在学习web前端技术
+## Learning
+目前正在学习c#，c++和WPF,接下来准备构建一个windows桌面程序
 
-![Web Developer](https://skillicons.dev/icons?i=html,css,typescript,react,nextjs,vue,tailwindcss,vite)
+![Web Developer](https://skillicons.dev/icons?i=c,cs,cpp,cmake,dotnet)
 
 ## IDE&Editor
 [![CLion](https://img.shields.io/badge/IDE-JetBrains%20CLion-22D890?style=flat-square&logo=clion)](https://www.jetbrains.com/clion/)
