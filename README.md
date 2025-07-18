@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/3d5d712e-a664-4ce0-b176-10509c93dc54" alt="Banner Image" width="55%"/>
+  <img src="https://github.com/user-attachments/assets/3bd433d4-4e26-4a94-a271-91ee0dfd4fe2" alt="Banner Image" width="55%"/>
 </p>
+
 
 <h1 align="center">Hi there! 👋 I'm MeowRain</h1>
 <p align="center">A college student exploring the world of code — especially in Go! 🐹</p>
